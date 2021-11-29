@@ -80,3 +80,7 @@ then you may need to install and run jarfix - google it (very unlikely to have i
 1. Select the 1.12.2 version of minecraft (vanilla). Run it.
 2. Exit
 3. Repeat process for installing Forge (if you did not delete the jar just reinstall client).
+
+
+**Known Bugs with MC 1.12.2**
+* Multiple music tracks playing at the same time - caused by pausing and exiting a world while the sound is playing. Fix is to press F3+T
