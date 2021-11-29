@@ -15,10 +15,9 @@ show in the top right of the screen after a certain period of time (6 seconds us
 1. Download forge 1.12.2
 
 The server is run on Minecraft version 1.12.2 because it is the most compatible version of minecraft for the most mods.
-As a result you will need to download a 1.12.2 version of forge, a modloader, from this link: 
-
-[link](https://maven.minecraftforge.net/net/minecraftforge/forge/1.12-14.21.1.2443/forge-1.12-14.21.1.2443-installer.jar)
-[alt](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.html) | click on the **latest** version
+As a result you will need to download a 1.12.2 version of forge, a modloader, from:
+* [link](https://maven.minecraftforge.net/net/minecraftforge/forge/1.12-14.21.1.2443/forge-1.12-14.21.1.2443-installer.jar)
+* [alt](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.12.html) | click on the **latest** version
 
 This should download a jar file (you may need to accept the file), which you should then run. Choose the client installation.
 If you do not have java installed you will not be able to run the jar file, see APPENDIX INSTRUCTIONS 'Install Java'.
@@ -64,9 +63,7 @@ click done. If the server is up you should be able to connect to it once whiteli
 
 **Install Java:**
 
-Install java 11 using the Adopt Open (recently renamed to Adoptium) JDK binary:
-
-[link](https://adoptium.net/?variant=openjdk11)
+Install java 11 using the Adopt Open (recently renamed to Adoptium) [JDK binary](https://adoptium.net/?variant=openjdk11)
 
 After installing you should be able to run jar files. Otherwise check environment variables (see appendix instructions). If that fails
 then you may need to install and run jarfix - google it (very unlikely to have issues so disregarding link).
